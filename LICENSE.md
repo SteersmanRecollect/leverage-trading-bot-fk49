@@ -1,4 +1,4 @@
-# 
+# custom leverage trading bot Tool | webhook-support + trailing-stop is the best leverage trading bot, featuring webhook-support and trailing-stop. Smart, fast, and optimized for
 
 
 
